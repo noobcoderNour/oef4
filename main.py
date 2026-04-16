@@ -1,4 +1,4 @@
-print("Versie 1")
+print("Versie 2 test")
 
 def groet(naam):
 	return f"Hallo {naam}"
